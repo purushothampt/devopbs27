@@ -1,0 +1,4 @@
+#! /bin/sh
+
+echo "Hello, This is a logic to check the merge concept"
+echo "I am learning Devops Engineer"
