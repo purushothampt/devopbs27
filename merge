@@ -1,3 +1,2 @@
 #! /bin/sh
-echo " Hello This is the changes done by developer 1"
-echo " I am learning Devops, Devops is fun"
+echo " I am learning Jenkins, Ansible Terraform, Docker and Kubernetes  "
