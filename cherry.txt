@@ -4,5 +4,3 @@ Hello "This is first change"
 =======
 Hello "This is first change"
 Hello "This is second change"
-Hello " This is fourth change"
->>>>>>> d274860 (4th change)
