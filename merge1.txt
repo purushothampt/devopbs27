@@ -3,4 +3,3 @@
 echo "Hello Thi is Developer 2 changes"
 echo "Hello, This is a logic to check the merge concept"
 echo "I am learning Devops Engineer"
-Hello world
