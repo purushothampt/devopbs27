@@ -1,0 +1,2 @@
+#! /bin/sh
+echo "Hello - How are you, I am writing shell scripting"
