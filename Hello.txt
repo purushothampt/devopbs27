@@ -4,5 +4,5 @@ echo "This is developer 2 changes, I am learning devops"
 Hello
 echo "Hello - How are you, I am writing shell scripting"
 echo "Hello - This is Purushotham"
-echo
+echo "Good Morning"
 
